@@ -18,17 +18,17 @@ OpenAI的GPT模型被認為是最強大的，因為其先進的自然語言處�
 ## Yes, AI-generated content should be labeled as “AI-made” to ensure transparency and maintain trust. Labeling helps users distinguish between human-created and AI-generated content, preventing deception or confusion. It also encourages accountability and ethical use of AI, fostering better understanding of its capabilities and limitations.
 是的，AI生成的內容應標註為“AI製作”，以確保透明度並維護信任。標註幫助用戶區分人類創建和AI生成的內容，避免誤導或混淆。這還促進了AI的問責和倫理使用，增進人們對AI能力和局限性的理解。
 
-Tell me about Hsinchu：
+1. Tell me about Hsinchu：
 Hsinchu is a city located in northern Taiwan, known for its vibrant technology industry and rich cultural history. Often referred to as Taiwan's "Silicon Valley," Hsinchu is home to the Hsinchu Science and Industrial Park, which hosts major tech companies, particularly in semiconductor and electronics manufacturing.
 
 Apart from its tech hub, Hsinchu has a blend of modern and traditional attractions, such as the historic Hsinchu City God Temple, Hsinchu Zoo, and the Cheng Huang Temple. The city is also known for its delicious local food, including rice noodles, pork balls, and the famous Hsinchu meatballs.
 
 Hsinchu is a major educational center, hosting National Chiao Tung University and National Tsing Hua University, which are key players in Taiwan's academic and research landscapes. The city also benefits from a pleasant climate and proximity to other cities like Taipei, making it an attractive place for both work and leisure.
 
-Give me a 100-word summary of Hsinchu City's history and economy：
+2. Give me a 100-word summary of Hsinchu City's history and economy：
 Hsinchu City, founded in the 17th century, has a rich history shaped by its early role in Taiwan's agriculture and trade. During the Qing Dynasty, it became a key center for rice and sugar production. In the 1980s, Hsinchu transformed into Taiwan's technology hub with the establishment of the Hsinchu Science and Industrial Park, driving its growth as a center for semiconductor, electronics, and information technology industries. Today, Hsinchu is known as Taiwan's "Silicon Valley," housing global tech companies and research institutions, while maintaining a balance of historical landmarks and modern development, making it a vital economic and cultural city in Taiwan.
 
-Explain Hsinchu City's technology sector and its impact on Taiwan's economy in 100 words, including key industries and major companies：
+3. Explain Hsinchu City's technology sector and its impact on Taiwan's economy in 100 words, including key industries and major companies：
 Hsinchu City's technology sector is a cornerstone of Taiwan's economy, particularly in semiconductors, electronics, and information technology. The Hsinchu Science and Industrial Park, established in 1980, hosts leading companies such as TSMC (Taiwan Semiconductor Manufacturing Company), MediaTek, and MStar Semiconductor. These companies drive innovations in chip manufacturing, telecommunications, and consumer electronics, making Taiwan a global leader in semiconductor production. Hsinchu's tech industry has significantly boosted Taiwan's GDP, fostering exports, high-tech job creation, and research advancements. It continues to play a crucial role in the global supply chain, especially in areas like integrated circuits and mobile technologies.
 
 
