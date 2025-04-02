@@ -55,13 +55,19 @@ calendar page numberless detailed digital painting by Gil Elvgren ,by Ghibli stu
 Help me combine these three elements I need into one image. 1. A group of cartoon cats with big eyes and lively and cute expressions, dancing. 2. A cartoon dog with four eyes, with big eyes and lively and cute expressions, dancing. 3. A cartoon sloth with four eyes, with big eyes and lively and cute expressions.
 
 1. There is a cat dancing
+
    ![image](https://github.com/user-attachments/assets/7e61f438-50ac-4b7c-89d3-b27699b30033)
+
 2. There is a dog reading a book
+
    ![image](https://github.com/user-attachments/assets/a95ad20d-0223-43ed-9b32-119199865b50)
+  
 3. There is a pig sleeping
+
    ![image](https://github.com/user-attachments/assets/7f858b75-936c-47e9-b3d7-624c105b5671)
    
 ## Merge them together
+
 ![image](https://github.com/user-attachments/assets/bd29e06d-fc19-4b8a-9757-75c95ef5c0f5)
 
 
