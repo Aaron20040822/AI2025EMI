@@ -29,8 +29,9 @@ Your Show Time 1: Five super-cute superhero-like sloths fly above the futuristic
 
 ![image](https://github.com/user-attachments/assets/cf5cd189-5c41-437f-a455-a12bef1b8517)
 
-Your Show Time 2: A male and a female superhero flew over the sky of Hsinchu City riding Hsinchu's specialty pork ball.一位男性與一位女性超級英雄，兩人騎著新竹的特產貢丸，飛越新竹市的天空。
+Your Show Time 2: A male and a female superhero flew over the sky of Hsinchu City riding Hsinchu's specialty meat ball.一位男性與一位女性超級英雄，兩人騎著新竹的特產貢丸，飛越新竹市的天空。
 
-![image](https://github.com/user-attachments/assets/9cccf910-21cb-4bec-acf0-04c7f995248a)
+![image](https://github.com/user-attachments/assets/9cc90686-0fff-4992-8472-6b28f1274af2)
+
 
 
