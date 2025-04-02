@@ -47,6 +47,7 @@ calendar page numberless detailed digital painting by Gil Elvgren ,by Ghibli stu
 
 ![image](https://github.com/user-attachments/assets/db0da891-e972-4458-8aef-5dee488765c4)
 
+## Merge them together
 ![image](https://github.com/user-attachments/assets/ec11dcbb-1f5e-4c3e-b2b2-0a5ea9c5e099)
 
 ## Case 2: Please refer to the case 1 then search and pick up 3 images about dogs and cats then merge them together, and submit your art work by the format of Case 1.
