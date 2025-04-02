@@ -33,5 +33,29 @@ Your Show Time 2: A male and a female superhero flew over the sky of Hsinchu Cit
 
 ![image](https://github.com/user-attachments/assets/9cc90686-0fff-4992-8472-6b28f1274af2)
 
+##  Case 1: beautiful blonde woman X long bus X strawberry caterpillar 
+
+Feminine Tenderness, painting in the style of Willem Haenraets, a very beautiful blonde woman, long luxurious curls, flowers, against a background of roses, blurred airy smoky watercolor, beauty, light, aesthetics, magically, radiance from within, gently, blurred, light haze, tenderness, romanticism, sfumato, very beautiful, delicate, light, pastel shades,  124k, high resolution, high detail, MSM, 30 mm lens, 1/250 s, f/2.8, ISO 100 
+
+![image](https://github.com/user-attachments/assets/e6494257-eac9-449d-b706-caa149b5de0f)
+
+A photo of a high detailed realistic long bus. The long bus is on the edge of the high mountain. In the jungle the high mountain hillside counter. The long bus is rusty and contain greenery overtaken by nature. Trees and grasses are growing on it. Long Bus is at the edge of high mountain hillside counter. Looking like it will fall from the mountain. Standing at the edge of the mountain hillside counter in jungle. The photo is from drone top left view.
+
+![image](https://github.com/user-attachments/assets/6bec4397-d1ca-4714-9bab-2e67a6ed1c90)
+
+calendar page numberless detailed digital painting by Gil Elvgren ,by Ghibli studio, Rebecca Sugar, Tomer Hanuka,  Loish, young , tender, beautiful, abstract expressionism close up macro cute cozy strawberry caterpillar wearing cylinder hat and ribbon  looking out of red mushroom, perfect
+
+![image](https://github.com/user-attachments/assets/db0da891-e972-4458-8aef-5dee488765c4)
+
+![image](https://github.com/user-attachments/assets/ec11dcbb-1f5e-4c3e-b2b2-0a5ea9c5e099)
+
+## Case 2: Please refer to the case 1 then search and pick up 3 images about dogs and cats then merge them together, and submit your art work by the format of Case 1.
+
+Help me combine these three elements I need into one image. 1. A group of cartoon cats with big eyes and lively and cute expressions, dancing. 2. A cartoon dog with four eyes, with big eyes and lively and cute expressions, dancing. 3. A cartoon sloth with four eyes, with big eyes and lively and cute expressions.
+
+![image](https://github.com/user-attachments/assets/b73c0d0a-4361-4e73-9b20-a17897c3b141)
+
+
+
 
 
