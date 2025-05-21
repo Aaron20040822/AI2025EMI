@@ -28,3 +28,17 @@
 ## 6. Image Classification X Auto-translation?
 ![image](https://github.com/user-attachments/assets/fd93292a-f542-4333-b7cc-3341fbfa9f52)
 ![image](https://github.com/user-attachments/assets/e71bc592-c594-41e4-841a-175022f41884)
+
+## Your Show Time: One Code Block & One Result
+
+### A. Please select another 2 images then classify and translate the classified results to your mother language (e.g., Chinese or Japanese)
+![image](https://github.com/user-attachments/assets/ff0f270a-fb1d-4e64-b070-a76c8e2f556f)
+![image](https://github.com/user-attachments/assets/928a18fc-eaac-4df5-8a14-e6218c1b4d1c)
+![image](https://github.com/user-attachments/assets/731394fd-4810-4a22-864d-5439e6bcb76b)
+
+### B. To find 3 images from Internet and Show the Image and Classification Result.
+![image](https://github.com/user-attachments/assets/3c5142e4-e951-4601-9bf7-6b37dc7e7c5a)
+![image](https://github.com/user-attachments/assets/fa46d9a9-5024-4dd2-bc54-0e61a66054b6)
+
+
+
